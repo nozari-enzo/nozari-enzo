@@ -1,6 +1,6 @@
 ## 👩🏻‍💻 Enzo Nozari
 
-<p>Olá! Meu nome é Enzo Nozari, tenho 19 anos e sou do Rio Grande do Sul. Desde pequeno sempre tive apreço por tecnologia, design e criatividade. Atualmente estou cursando Análise e Desenvolvimento de Sistemas no Senacrs, atualmente no 2 semestre</p>
+<p>Olá! Meu nome é Enzo Nozari, tenho 19 anos e sou do Rio Grande do Sul. Desde pequeno sempre tive apreço por tecnologia, design e criatividade. Atualmente estou cursando Análise e Desenvolvimento de Sistemas no Senacrs, atualmente no 3 semestre</p>
 
 ##  aprendendo
  estou aprendendo linguagens como: <br/>
