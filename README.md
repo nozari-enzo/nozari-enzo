@@ -38,19 +38,11 @@ Em 2024, vivi 5 meses no Canadá (janeiro a maio), onde estudei inglês no **Spr
 
 
 
-- **[Florestal Pinus](https://github.com/nozari-enzo/repo)** — Site feito para uma serraria.
-- **[Era meu agora é teu](https://github.com/nozari-enzo/repo)** — Landing page de um brechó infantil.
+- **[Florestal Pinus](https://florestalpinus.com)** — Site feito para uma serraria.
+- **[Era meu agora é teu](https://brechoinfantilerameu.com.br)** — Landing page de um brechó infantil.
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nozari-enzo&show_icons=true&theme=default" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nozari-enzo&layout=compact&theme=default" alt="Top Langs" height="165"/>
-</p>
-
----
 
 ### 📫 Contato
 
