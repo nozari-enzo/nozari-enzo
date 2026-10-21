@@ -15,7 +15,7 @@ Atualmente, meu foco principal é o desenvolvimento backend com **Java** e o eco
 
 - 🎓 **Formação:** Cursando Análise e Desenvolvimento de Sistemas (Senac RS)
 - 💼 **Atuação Atual:** Estágio em Desenvolvimento / Sistemas na PUCRS (Java, Spring Boot, Azure DevOps)
-- 🌐 **Idiomas:** Inglês Técnico Avançado — Imersão de 5 meses no Canadá (SSLC)[cite: 1] + curso *English for IT* focado no mercado de tecnologia[cite: 1].
+- 🌐 **Idiomas:** Inglês Técnico Avançado — Imersão de 5 meses no Canadá (SSLC) Sprott Shaw Language College + curso *English for IT* focado no mercado de tecnologia.
 
 ---
 
@@ -41,13 +41,13 @@ Atualmente, meu foco principal é o desenvolvimento backend com **Java** e o eco
 ## 🚀 Projetos em Destaque
 
 - **API REST em Java / Spring Boot** — *(Em breve: projeto focado em microsserviços, Spring Data JPA e JUnit)*
-- **Florestal Pinus** — Website desenvolvido para uma empresa do setor madereiro/serraria[cite: 1].
-- **Era meu agora é teu** — Landing page criada para um brechó infantil[cite: 1].
+- **Florestal Pinus** — Website desenvolvido para uma empresa do setor madereiro/serraria.
+- **Era meu agora é teu** — Landing page criada para um brechó infantil.
 
 ---
 
 ## 📬 Contato & Redes
 
-- 📧 **Email:** [nozarienzor@gmail.com](mailto:nozarienzor@gmail.com)[cite: 1]
-- 💼 **LinkedIn:** [enzo-nozari-798188326](https://www.linkedin.com/in/enzo-nozari-798188326/)[cite: 1]
-- 📍 **Localização:** Rio Grande do Sul, Brasil[cite: 1]
+- 📧 **Email:** [nozarienzor@gmail.com](mailto:nozarienzor@gmail.com).
+- 💼 **LinkedIn:** [enzo-nozari-798188326](https://www.linkedin.com/in/enzo-nozari-798188326/).
+- 📍 **Localização:** Rio Grande do Sul, Brasil.
